@@ -1,4 +1,7 @@
-# JvWeather
+# Jorge Lucas - WeatherSearch
+
+## Projeto para consultar a previsão do tempo via API
+Projecto desenvolvido para o curso da @Digital Innovation One
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
